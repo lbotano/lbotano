@@ -1,5 +1,5 @@
-<h1 align="center">Lautaro Otaño</h1>
-<h3 align="center">CS student from Argentina</h3>
+# Lautaro Otaño
+### CS student from Argentina
 
 ✉️ **otanolautarob@gmail.com**
 
