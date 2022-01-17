@@ -1,6 +1,5 @@
 # Lautaro Otaño
-### CS student from Argentina
+## Web Developer and CS student
 
-✉️ **otanolautarob@gmail.com**
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lbotano&show_icons=true&theme=dark&locale=en&layout=compact" alt="lbotano" /></p>
+* ✉️ **otanolautarob@gmail.com**
+* 🌐 [**lbotano.tk**](https://lbotano.tk/)
